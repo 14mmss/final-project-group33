@@ -10,3 +10,4 @@ This tutorial shows how you can run the web application Magic Meal Maker, made b
 4. Click on Upload RDF files and select the `statements.ttl` file from the provided zip file
 5. Copy the repository URL to clipboard and past it the link in the `main1.js` file, on line 8
 6. Open the `index.html` file in your browser, and start discovering meals! 
+If after these steps, it doesn't work, please don't forget to turn your CORS extension on!
